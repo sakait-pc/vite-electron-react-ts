@@ -1,4 +1,4 @@
-# Vite + Electron + React + Typescript Template
+# Vite + Electron + React + TypeScript Template
 
 This is a simple template to develop your personal desktop apps with Electron and React.
 
