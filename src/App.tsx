@@ -23,6 +23,7 @@ const App = () => {
           }{" "}
           + React + TypeScript
         </h1>
+        <small>v{import.meta.env.VITE_VERSION}</small>
         <div className="counter">
           <span>{count}</span>
           <button onClick={increment} style={{marginLeft: '8px'}}>+1</button>
